@@ -1,0 +1,18 @@
+* Robminton
+** Ramasseur
+Detection d'obstacle (fauteuil-pied de chaise-personne)
+Empiler les volants les uns dans les autres
+600-700 volants max
+200 - 300 volants nominale
+Lancer 16 volants en 10 secondes
+** Lanceur
+lancé reproductible, toujours le même lancé
+multi lanceur OK
+badenko constructeur: attention usure des volants
+https://www.youtube.com/watch?v=XtE6wyeD8XM
+signalétique (compte à rebours)
+réglage vitesse/angle
+vitesse max en smatsh record 400km/h sortie raquette - nominal 200 km/h
+cadence 20 volants - 10 secondes 
+Hugo : aspect mécanique
+Amon : ROS
