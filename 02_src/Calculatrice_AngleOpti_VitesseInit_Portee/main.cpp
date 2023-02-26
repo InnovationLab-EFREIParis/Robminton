@@ -13,6 +13,13 @@ double equation3(double a,double b) {
   return ((4.57*(cos(a*3.14/180)))/2)*(log((1+4*(((b/3.6)/6.7)*((b/3.6)/6.7))*sin(a*3.14/180))));
 }
 
+double equation4(double a,double b) {
+  return (4.57*(sin(a*3.14/180)));
+}
+
+double equation5(double a) {
+   return (asin(a/4.57)*180/3.14S);
+   
 int main() {
   int choice;
   double a, b, result;
@@ -23,7 +30,7 @@ int main() {
 
   if (choice == 1) {
 
-    printf("Angle initial en degrés : ");
+    printf("Angle initial en degrÃ©s : ");
     scanf("%lf", &a);
     printf("Portee souhaitee en metres : ");
     scanf("%lf", &b);
@@ -43,6 +50,20 @@ int main() {
     scanf("%lf", &b);
     result = equation3(a,b);
     printf("La portee en metres sera la suivante : %lf\n", result);
+    }
+   else if (choice == 4){
+    printf("Angle initial en degres : ");
+    scanf("%lf", &a);
+    printf("Vitesse initiale en km/h : ");
+    scanf("%lf", &b);
+    result = equation3(a,b);
+    printf("La hauteur maximale en metres sera la suivante : %lf\n", result);
+    }
+    else if (choice == 5){
+    printf("Hauteur maximale souhaitee en metres : ");
+    scanf("%lf", &a);
+    result = equation5(a);
+    printf("L'angle optimal sera de : %lf\n", result);
     }
     else {
     printf("Invalid choice\n");
