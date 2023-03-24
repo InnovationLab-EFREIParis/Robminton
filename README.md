@@ -6,7 +6,7 @@ Concernant les logiciels à avoir, il est nécessaire d'avoir SolidWorks afin d'
 
 Toutes les ressources que nous avons utilisées/produites sont présentes dans le git :
 
-00_doc : contient toute la documentation nécessaire pour bien commencer le projet
+00_doc : contient toute la documentation que nous avons utilisé ou produit pendant le projet
 
 01_mdl : contient les modélisation 3D que nous avons faites au cours du projet. Dedans ce sera le dossier SW qui sera le plus utile. Toutes les pièces/assemblages y sont. 
 
