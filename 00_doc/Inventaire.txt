@@ -1,0 +1,41 @@
+Batteries : 4 au total 
+-Morpilot 2041600 12V 4A
+-DSK 12V 7,2A
+-EMAX 4,35V 0,3A
+-OVONIC 22,2 V 6,5A
+
+Chargeur de batteries : Beikalone 
+
+Driver moteur pas à pas : 5 au total 
+Moteur pas à pas : 3 au total
+
+Cartes embarquées : 5 au total 
+-Arduino 
+-Leonardo
+-STM32 
+-Shield Arduino L293D 
+-Raspberry Pi 3
+
+Ecran LED
+
+Pont en H 
+
+Régulateur de tensions : LM2596 DC-DC
+
+Sonar HCSR04
+
+Distribution board 
+
+Courroie : 3 
+
+Moteurs de drones : 
+BR2306S : 4 au total 
+A2212/13T : 2 au total
+A2212/6T : 2 au total 
+
+Driver de drones : 4 au total 
+2 rouges qui fonctionnent
+
+
+
+
