@@ -1,1 +1,7 @@
 # ElecCode Folder
+Ce dossier du projet a été créé pour réunir tout les codes et documentations pour l'utilisation du matériel électronique de ce projet.
+
+## Contenu des fichiers
+* `0.Cave`: ce dossier contient tout les fichiers `word` et `pw` qui ont servi à la réalisation des documentations et schéma.
+* `1.Ramasseur`: ce dossier contient les codes et les documentations pour le rammasseur.
+* `2.Lanceur`: ce dossier contient les codes et documentations pour le lanceur.
