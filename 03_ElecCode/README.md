@@ -1,5 +1,5 @@
 # ElecCode Folder
-Ce dossier du projet a été créé pour réunir tous les codes et documentations pour l'utilisation du matériel électronique de ce projet.
+Ce dossier a été créé pour réunir tous les codes et documentations pour l'utilisation du matériel électronique de ce projet.
 
 ## Contenu des fichiers
 * `0.Cave`: ce dossier contient tout les fichiers `word` et `pw` qui ont servi à la réalisation des documentations et schéma.
